@@ -13,7 +13,7 @@ YBIGTA 2021 코딩테스트 스터디입니다. 6개월간 최소 일주일에 3
 - 김희진(YBIGTA 17기): [레포](https://github.com/gimmizz/Data-Structure-Algorithm)
 - 백진우(YBIGTA 15기): [레포]()
 - 안지훈(YBIGTA 17기): [레포](https://github.com/namsick96/algoritm_prac)
-- 이화영(YBIGTA 17기): [레포]()
+- 이화영(YBIGTA 17기): [레포](https://github.com/2hwayoung/algorithm)
 - 황동영(YBIGTA 13기): [레포](https://github.com/y0ngjaenious/Leetcode)
 
 ## Recommended Question
