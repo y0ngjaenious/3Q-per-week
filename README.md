@@ -15,7 +15,7 @@ YBIGTA 2021 코딩테스트 스터디입니다. 6개월간 최소 일주일에 3
 - 안지훈(YBIGTA 17기): [레포](https://github.com/namsick96/algoritm_prac)
 - 이화영(YBIGTA 17기): [레포](https://github.com/2hwayoung/AlgorithmStudy)
 - 황동영(YBIGTA 13기): [레포](https://github.com/y0ngjaenious/Leetcode)
-
+- 이유림(YBIGTA 17기): [레포](https://github.com/yourimlee/algorithm_practice)
 ## Recommended Question
 - 좋은 문제를 정리합니다.
 
