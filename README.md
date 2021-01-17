@@ -26,6 +26,13 @@ YBIGTA 2021 코딩테스트 스터디입니다. 6개월간 최소 일주일에 3
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 0001 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](./DataStructure/LinkedList/add_two_numbers.py) | _O(n+m)_       | _O(1)_          | Medium         |||
+
+- Queue
+
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0001 | [큐 2](https://www.acmicpc.net/problem/18258) | [Python](https://github.com/namsick96/algoritm_prac/blob/master/queue_N_deque/queue2_18258.py) | _O(1)_       | _O(1)_          | Easy        |||
+
 ### Algorithms
 - Two Pointer Algorithm
 
